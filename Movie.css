@@ -1,0 +1,18 @@
+body{
+background-color:rgb(246, 214, 214);
+}
+strong{
+    color: rgb(121, 21, 91);
+}
+.movie{
+    color: red;
+    font-kerning: normal;
+}
+p
+{
+    color: aquamarine;
+}
+a
+{
+    color: rgb(134, 74, 249);
+}

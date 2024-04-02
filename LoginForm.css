@@ -1,0 +1,29 @@
+
+input{
+    display: flex;
+color:white;
+}
+.h1{
+    color: white;
+}
+p{
+color:rgb(211, 37, 81);  
+    border-radius: 2px;
+}
+.btn
+{
+    color:green;
+    background-color:rgb(195, 226, 194);
+    background-position:30%;
+    border-radius: 15%;
+}
+.date{
+    color:rgb(255, 137, 17);
+}
+.date{
+    background-color: bisque;
+    color: blueviolet;
+}
+.confirm{
+    color: blue;
+}
